@@ -1,5 +1,3 @@
-"""Score board class purpose"""
-
 # import turtle from Turtle
 
 # Global variable for the font in the GUI
@@ -9,6 +7,7 @@
 # class Scoreboard with super class Turtle
 
     # Defining the class
+"""Score board class purpose is to indicate the level the player is currently on and control the game over sequence"""
         #Initialize with super class
 
         # Color of the board on the screen
