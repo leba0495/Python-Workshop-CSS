@@ -10,8 +10,11 @@ We hope you walk away with some knowledge and that you got to have some fun whil
 
 
 ## Resources for the workshop:
+- [Classes Explanation with Python](https://www.geeksforgeeks.org/python-classes-and-objects/)
 - [Turtle Graphics Documentation](https://docs.python.org/3/library/turtle.html)
 - [Colors for Turtle](https://cs111.wellesley.edu/labs/lab01/colors)
 - [More color for Turtle](https://trinket.io/docs/colors)
 
 
+
+> Credits to: https://www.udemy.com/share/103IHM3@THvj1W2HOSnNcasX52wt3HDRiI5iMCK_6wt78wp5nZQAauhS0Cv9WxsGfAZRMnqFUw==/ 
