@@ -8,48 +8,46 @@
 
 # import time
 
-"""Declaring main for ease of use purposes"""
 
-    #Screen set up
 
-    # Create a turtle player, a carManager & score variables to instantiate our objects
+#Screen set up
 
-    # Set up commands for the screen and the key the user will need to play game
+# Create a turtle player, a carManager & score variables to instantiate our objects
 
-    # Create a variable to use as Flag for the game logic
+# Set up commands for the screen and the key the user will need to play game
+
+# Create a variable to use as Flag for the game logic
 
 """Game Logic"""
-    # While loop
+# While loop
 
-        # Delaying of the screen and update
+    # Delaying of the screen and update
 
-        # Create cars
+    # Create cars
 
-        # Move to cars to the right side of screen
+    # Move to cars to the right side of screen
 
-        # Detect when the turtle player collides with a car and stop the game if this happens.
-        # Uses a for-loop
+    # Detect when the turtle player collides with a car and stop the game if this happens.
+    # Uses a for-loop
 
-            # Use the distance you'd like but the most accurate is 15-20.
+        # Use the distance you'd like but the most accurate is 15-20.
 
-            # If the distance of the car to "player" is less than 20.
+        # If the distance of the car to "player" is less than 20.
 
-                # Set flag to false
+            # Set flag to false
 
-                # When turtle hits a car, GAME OVER.
+            # When turtle hits a car, GAME OVER.
 
-        # Detect when turtle player has reached the finish line.
+    # Detect when turtle player has reached the finish line.
 
-            # Return the turtle to starting
+        # Return the turtle to starting
 
-            # Increase speed of cars.
+        # Increase speed of cars.
 
-            # Every time the player crosses the level increases.
+        # Every time the player crosses the level increases.
 
-    # Play again functionality
+# Play again functionality
 
-    # If yes, clear screen and start game again.
+# If yes, clear screen and start game again.
 
-    #Else, exit the screen on click
-
-"""Call main"""
+#Else, exit the screen on click
