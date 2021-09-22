@@ -1,11 +1,9 @@
 # import turtle from Turtle
 
-"""Player class purpose"""
-
 """Global Variables"""
 # Starting position
 
-# Moving
+# Moving (how much the turtle moves each time)
 
 #Finish Line Y-axis position
 
@@ -13,7 +11,7 @@
 # class Player with a super class Turtle
 
     # Defining the class
-
+"""Player class purpose is to manage the turtle we're controlling to cross the road"""
         # Initialize with super class
 
         # Shape of the turle
