@@ -16,5 +16,9 @@ We hope you walk away with some knowledge and that you got to have some fun whil
 - [More color for Turtle](https://trinket.io/docs/colors)
 
 
+
+
+
 > Last updated by: Luis Brito
+
 > Credits to: https://www.udemy.com/share/103IHM3@THvj1W2HOSnNcasX52wt3HDRiI5iMCK_6wt78wp5nZQAauhS0Cv9WxsGfAZRMnqFUw==/ 
